@@ -1,6 +1,5 @@
-"""
-Calculator library containing basic maths operations.
-"""
+# Calculator library containing basic maths operations.
+
 
 def add(first_term, second_term):
     return first_term + second_term
